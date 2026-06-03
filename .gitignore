@@ -1,0 +1,12 @@
+# Windows files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# XAMPP logs
+*.log
+
+# PHP error files
+error_log
